@@ -1,6 +1,6 @@
 ### Hi, I'm Shahbaz - 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Shahbaz21986350?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Shahbaz21986350)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MRDevil60072?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MRDevil60072)
 
 ## I'm a Developer and learning AI.
 

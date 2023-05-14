@@ -4,8 +4,8 @@
 
 ## I'm a Developer and learning AI.
 
-- 🌱 I’m currently learning AI and Flutter.
-- 🥅 2021 Goal: To be a Data Scientist.
+- 🌱 I’m currently working on UNITY Engine and UNREAL Engine
+- 🥅 2023 Goal: To be a SENIOR UNREAL DEVELOPER
 - ⚡ I love to play cricket and video games.
 
 ### Connect with me:
